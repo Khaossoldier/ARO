@@ -1,0 +1,20 @@
+# type
+
+type = non-oriente;
+
+#liste des sommets
+
+sommets = A B C D E F G H I J;
+
+#liste des arcs 
+
+arcs =
+	A B 1
+	A D 1
+	D E 1
+	E F 1
+	A G 1
+	C I 1
+	I J 1
+	C H 1
+;

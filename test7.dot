@@ -1,0 +1,20 @@
+graph {
+A [color=red];
+B [color=red];
+C [color=blue];
+D [color=red];
+E [color=red];
+F [color=red];
+G [color=red];
+H [color=blue];
+I [color=blue];
+J [color=blue];
+A -- B;
+A -- D;
+A -- G;
+C -- I;
+C -- H;
+D -- E;
+E -- F;
+I -- J;
+}
